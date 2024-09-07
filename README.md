@@ -23,10 +23,10 @@ I'm a passionate software developer specializing in building efficient and scala
   - Enhanced user experience through frontend optimizations using Angular.
 
 🛠️ **Projects**
-- **StudyNotion Edtech Website** - [Link](#)
+- **StudyNotion Edtech Website** - 
   - MERN stack application for student enrollment and course publication, featuring robust authentication and payment integration.
 
-- **Dig The Riddle** - [Link](#)
+- **Dig The Riddle** - 
   - Interactive game platform using HTML, CSS, JavaScript, MongoDB, ExpressJS, NodeJS.
   - Improved security and productivity by 40% with authenticated user access.
 
